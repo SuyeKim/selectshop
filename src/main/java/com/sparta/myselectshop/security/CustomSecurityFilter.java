@@ -1,4 +1,4 @@
-package com.sparta.springsecurity.security;
+package com.sparta.myselectshop.security;
 
 import com.sparta.myselectshop.security.UserDetailsServiceImpl;
 import lombok.RequiredArgsConstructor;
